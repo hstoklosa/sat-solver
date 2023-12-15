@@ -1,0 +1,14 @@
+c IN1002 Introduction to Algorithms!
+c top secret ID string c849671238
+c 3 variables and 8 clauses
+p cnf 3 8
+c each line is a clause, 0 marks the end
+3 -2 0
+1 1 0
+-3 0
+3 3 0
+3 3 0
+-2 2 0
+-2 3 0
+3 2 0
+c Good luck!
